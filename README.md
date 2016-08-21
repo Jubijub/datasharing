@@ -1,3 +1,5 @@
+**Proof that the repo is connected to my machine**
+
 How to share data with a statistician
 ===========
 
